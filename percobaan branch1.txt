@@ -1,4 +1,4 @@
-PERCOBAAN BRANCH 1
+
 
 ini adalah file branch di github
 dan ini merupakan file percobaan yang coba-coba.
@@ -10,3 +10,4 @@ ini branch yang udah digabungin
 
 ini tetap branch 1 tapi cuma ditambahkan rencana branch ke-3.
 dan tidak menghapus judul
+INI PERCOBAAN BRANCH YANG ADA 2
