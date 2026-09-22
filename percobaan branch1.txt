@@ -5,3 +5,5 @@ dan ini merupakan file percobaan yang coba-coba.
 
 branch merupakan cabang yang tidak mengganggu alur utama.
 jadi alur utamanya tetap aman.
+
+ini branch yang udah digabungin
